@@ -1,0 +1,31 @@
+{
+  "name": "lylo-app-fe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.62.0",
+    "react-redux": "^8.0.0",
+    "@reduxjs/toolkit": "^1.9.0",
+    "wagmi": "^1.4.0",
+    "ethers": "^6.6.0",
+    "@solana/wallet-adapter-react": "^0.18.0",
+    "@solana/wallet-adapter-react-ui": "^0.18.0",
+    "@solana/web3.js": "^1.73.2",
+    "@tanstack/react-query": "^4.29.0",
+    "clsx": "^1.2.1",
+    "sonner": "^1.0.0",
+    "typeit-react": "^8.7.1",
+    "react-tooltip": "^5.20.0",
+    "lscache": "^1.3.0",
+    "socket.io-client": "^4.7.2",
+    "react-intersection-observer": "^9.4.3"
+  }
+} 
